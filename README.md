@@ -1,5 +1,9 @@
 # Automated Deployment Pipeline with Jenkins and Docker
 
+<!-- public-repo-status -->
+> Status: Legacy/reference. This repository is kept public as a DevOps example, but it is not actively supported. Issues and pull requests are disabled unless support is reopened.
+
+
 This project demonstrates the automation of the CI/CD process for a Python web application using Jenkins and Docker.
 
 ## Prerequisites
